@@ -6,19 +6,23 @@ import { Experience } from './components/Experience/Experience.jsx'
 import { Projects } from './components/Projects/Projects.jsx'
 import { Sertifikat } from './components/Sertifikat/Sertifikat.jsx'
 import { Contact } from './components/Contact/Contact.jsx'
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
 
   return (
-    <div className={styles.App}>
-      <Navbar />
-      <Hero />
-      <About />
-      <Experience />
-      <Projects />
-      <Sertifikat />
-      <Contact />
-    </div>
+    <>
+      <div className={styles.App}>
+        <Navbar />
+        <Hero />
+        <About />
+        <Experience />
+        <Projects />
+        <Sertifikat />
+        <Contact />
+      </div>
+      <Analytics/>
+    </>
   )
 }
 
