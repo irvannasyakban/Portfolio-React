@@ -1,7 +1,7 @@
 # React + Vite Portfolio
 
-## Link Demo:
-[Klik Here](https://irvannasyakban.vercel.app)
+Link Demo:
+[Click Here](https://irvannasyakban.vercel.app)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
