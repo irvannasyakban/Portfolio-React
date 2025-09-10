@@ -17,7 +17,7 @@ export const Hero = () => {
           <br />
           And I am also interested in learning about Golang for now.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:irvannasyakban@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
