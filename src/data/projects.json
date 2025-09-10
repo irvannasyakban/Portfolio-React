@@ -12,14 +12,14 @@
       "imageSrc": "projects/landing-page.png",
       "description": "Landing Page is an application designed to advertise a company to visitors, to generate conversions from visitors, for sales company.",
       "skills": ["HTML", "CSS"],
-      "demo": "https://www.example.com",
+      "demo": "",
       "source": "https://github.com/IrfanNasyakban/zaskarya.github.io"
     },
     {
       "title": "Mentor Heal App",
       "imageSrc": "projects/mentorheal.png",
       "description": "Mental health is a major problem because it has a significant impact on the lives of individuals, families and society.",
-      "skills": ["Kotlin", "Jetpack Compose"],
+      "skills": ["Kotlin", "Jetpack Compose", "Flask", "TensorFlow"],
       "demo": "https://drive.google.com/drive/folders/1K5bcjlCDpkXu8KoXZjUJgIXoGl7AInyN",
       "source": "https://github.com/orgs/HealMentor/repositories"
     },
@@ -27,8 +27,37 @@
       "title": "Manajemen SPP",
       "imageSrc": "projects/manajemen.png",
       "description": "The Tuition Fee Management App is an application designed to make things easier for us to do paying tuition fees at school via online application.",
-      "skills": ["Flutter", "Dart"],
+      "skills": ["Flutter", "Dart", "Node", "ExpressJs", "MySQL"],
       "demo": "",
       "source": "https://github.com/IrfanNasyakban/Manajemen-Spp-Flutter"
+    },
+    {
+      "title": "LMS - GreenSys",
+      "imageSrc": "projects/greensys.png",
+      "description": "A science learning platform based on Green Economy that integrates organic waste management to enhance students.",
+      "skills": ["ReactJs", "Tailwind", "Node", "ExpressJs", "MySQL", "VPS-Ubuntu"],
+      "demo": "https://greensys.ruangbertunas.id",
+      "source": "https://github.com/orgs/TeamGreenSys/repositories"
+    },
+    {
+      "title": "POS (Point of Sale) UD. Tani Sejahtera",
+      "imageSrc": "projects/pos.png",
+      "description": "Point of Sale (POS) system developed for UD. Tani Sejahtera to manage sales, inventory, and transactions efficiently. The system helps streamline product management, monitor stock in real-time, and generate accurate reports for better decision-making.",
+      "skills": ["ReactJs", "Bootstrap", "Node", "ExpressJs", "Typescript", "MySQL"],
+      "source": "https://github.com/orgs/POS-Inventory/repositories"
+    },
+    {
+      "title": "News of Gampong Matang Kuli",
+      "imageSrc": "projects/news.png",
+      "description": "Point of Sale (POS) system developed for UD. Tani Sejahtera to manage sales, inventory, and transactions efficiently. The system helps streamline product management, monitor stock in real-time, and generate accurate reports for better decision-making.",
+      "skills": ["ReactJs", "Tailwind", "Node", "ExpressJs", "MySQL"],
+      "source": "https://github.com/orgs/Web-Gampong-Atau-Desa/repositories"
+    },
+    {
+      "title": "Question Bank App",
+      "imageSrc": "projects/news.png",
+      "description": "Point of Sale (POS) system developed for UD. Tani Sejahtera to manage sales, inventory, and transactions efficiently. The system helps streamline product management, monitor stock in real-time, and generate accurate reports for better decision-making.",
+      "skills": ["ReactJs", "Tailwind", "Node", "ExpressJs", "MySQL"],
+      "source": "https://github.com/orgs/Web-Gampong-Atau-Desa/repositories"
     }
   ]

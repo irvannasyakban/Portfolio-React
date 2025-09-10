@@ -15,7 +15,7 @@ export const Hero = () => {
           <br />
           I have a desire to present innovative and efficient technology solutions. 
           <br />
-          And I am also interested in learning about Cloud Computing
+          And I am also interested in learning about Golang for now.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
@@ -27,7 +27,6 @@ export const Hero = () => {
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />
-      <div className={styles.bottomBlur} />
     </section>
   );
 };

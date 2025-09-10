@@ -118,3 +118,63 @@
     align-items: center;
   }
 }
+
+/* Mobile responsiveness */
+@media screen and (max-width: 500px) {
+  .container {
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 25px;
+    padding: 0;
+  }
+
+  .title {
+    font-size: 24px;
+    margin-bottom: 18px;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .description {
+    font-size: 15px;
+    margin-bottom: 28px;
+    text-align: center;
+  }
+
+  .contactBtn {
+    font-size: 18px;
+    padding: 12px 18px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .heroImg {
+    width: 80vw;
+    max-width: 190px;
+    margin-bottom: 18px;
+  }
+
+  .content {
+    align-items: center;
+    width: 100%;
+  }
+
+  .topBlur,
+  .bottomBlur {
+    width: 80vw;
+    height: 80vw;
+    min-width: 180px;
+    min-height: 180px;
+    filter: blur(60px);
+    left: -20vw;
+    right: -20vw;
+  }
+
+  .topBlur {
+    top: -80px;
+  }
+
+  .bottomBlur {
+    top: 180px;
+  }
+}

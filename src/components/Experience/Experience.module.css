@@ -73,3 +73,43 @@
     font-size: 30px;
   }
 }
+
+/* Mobile responsiveness */
+@media screen and (max-width: 500px) {
+  .container {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 40px;
+  }
+
+  .title {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 8px;
+  }
+
+  .skills {
+    gap: 18px;
+    justify-content: center;
+  }
+
+  .skillImageContainer {
+    width: 70px;
+    height: 70px;
+  }
+
+  .skillImageContainer img {
+    width: 40px;
+  }
+
+  .skill p {
+    font-size: 15px;
+    text-align: center;
+  }
+}

@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 100vw;
+  width: 100%;
   padding: 58px 10%;
   gap: 10px;
 }
@@ -50,6 +50,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    padding: 40px 5%;
   }
 
   .text {
@@ -80,5 +81,39 @@
     font-size: 20px;
     font-weight: 400;
     letter-spacing: 1.5px;
+  }
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 500px) {
+  .container {
+    padding: 25px 2%;
+    margin-top: 60px;
+    gap: 15px;
+  }
+
+  .text h2 {
+    font-size: 28px;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+
+  .text p {
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+
+  .links {
+    gap: 16px;
+  }
+
+  .link {
+    gap: 12px;
+  }
+
+  .link a {
+    font-size: 16px;
+    letter-spacing: 1px;
   }
 }
