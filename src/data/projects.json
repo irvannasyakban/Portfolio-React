@@ -55,9 +55,10 @@
     },
     {
       "title": "Question Bank App",
-      "imageSrc": "projects/news.png",
-      "description": "Point of Sale (POS) system developed for UD. Tani Sejahtera to manage sales, inventory, and transactions efficiently. The system helps streamline product management, monitor stock in real-time, and generate accurate reports for better decision-making.",
-      "skills": ["ReactJs", "Tailwind", "Node", "ExpressJs", "MySQL"],
-      "source": "https://github.com/orgs/Web-Gampong-Atau-Desa/repositories"
+      "imageSrc": "projects/banksoal.png",
+      "description": "This application not only provides exam questions but also is able to analyze students' learning styles, such as visual, auditory, and kinesthetic, as well as categorize their levels of understanding into three categories: high, medium, and low.",
+      "skills": ["ReactJs", "Flutter", "Dart", "Tailwind", "Node", "ExpressJs", "MySQL"],
+      "demo": "https://youtu.be/MQ2a7epM-hA",
+      "source": "https://github.com/orgs/SMA-1-Lhokseumawe/repositories"
     }
   ]
